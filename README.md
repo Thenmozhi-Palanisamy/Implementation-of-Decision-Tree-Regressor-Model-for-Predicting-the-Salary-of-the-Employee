@@ -17,7 +17,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 
 ## Program:
-```
+
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: Thenmozhi P
@@ -59,9 +59,10 @@ r2=metrics.r2_score(y_test,y_pred)
 r2
 
 dt.predict([[5,6]])
-
+```
 ## Output:
 data.head()
+
 ![image](https://github.com/Thenmozhi-Palanisamy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/95198708/48e17f09-8429-4ac5-8fe2-ee44d76fb21a)
 
 
